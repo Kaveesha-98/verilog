@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Jan 26 16:37:50 2022
+# Process ID: 21372
+# Current directory: E:/verilog/verilog/mig_7_0_ex
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent29420 E:\verilog\verilog\mig_7_0_ex\mig_7_0_ex.xpr
+# Log file: E:/verilog/verilog/mig_7_0_ex/vivado.log
+# Journal file: E:/verilog/verilog/mig_7_0_ex\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/verilog/verilog/mig_7_0_ex/mig_7_0_ex.xpr
+update_compile_order -fileset sources_1
